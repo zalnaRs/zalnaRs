@@ -1,6 +1,6 @@
 # Hi there, im zalnaRs 👋
 
-![Github stats](https://github-readme-stats.zalnars.vercel.app/api?username=zalnaRs&show_icons=true)
+![Github stats](https://readme-stats-sigma.vercel.app/api?username=zalnaRs&show_icons=true)
 
 ### My favorites frameworks's and language's:
  - <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
