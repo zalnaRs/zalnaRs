@@ -1,6 +1,6 @@
 # Hi there, im zalnaRs 👋
 
-<a href="https://zalnars.tk">My website</a>
+<a href="https://zalnars.cf">My website</a>
 
 ![Github stats](https://readme-stats-sigma.vercel.app/api?username=zalnaRs&show_icons=true)
 
