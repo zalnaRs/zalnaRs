@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm zalnaRs</h1>
-- 🔭 I’m currently working on [ZryteZene for the web](https://github.com/ThatCakeID/zz-web)
+- 🔭 I’m currently working on idk
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my active projects are available at [https://zalnars.cf](https://zalnars.cf)
 
-- 📫 How to reach me **thezalnar@hotmail.com**
+- 📫 You can reach me at discord **@zalnaRs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
