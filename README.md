@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Go<br>🎯 Goals: Have successful app<br>🎲 Fun fact: I use Arch</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning nothing from school<br>🎯 Goals: Have successful app<br>🎲 Fun fact: I use Fedora</p>
 
 ###
 
